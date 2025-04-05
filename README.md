@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Dennis Njiru Aningu — a self-taught Data Analyst passionate about uncovering insights from data and helping teams make smarter decisions.
 
-<!--
-**NjiruDennis/NjiruDennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I specialize in:
 
-Here are some ideas to get you started:
+Writing complex SQL queries (Snowflake, Metabase)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building interactive dashboards (Power BI, Tableau)
+
+Automating reports and workflows (Excel, Python)
+
+Cleaning and transforming data for analysis (ETL)
+
+📊 I enjoy solving real-world problems with data and creating dashboards that tell compelling stories. I'm always looking for ways to optimize reporting, improve decision-making, and make data more accessible.
+
+🎯 On GitHub, you’ll find:
+
+Sample dashboards and SQL projects
+
+Python scripts for data cleaning and analysis
+
+Personal learning projects as I grow in Power BI and Python
+
+📚 Currently learning: Advanced Power BI & Python for Data Analysis
+💬 Let’s connect or collaborate — always open to learning and sharing!
