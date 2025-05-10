@@ -18,3 +18,56 @@ I'm always looking for ways to optimize reporting, improve decision-making, and 
 
 📚 Currently learning: Advanced Power BI & Python for Data Analysis
 💬 Let’s connect or collaborate — always open to learning and sharing!
+
+
+<h2 align="center">Skills and Tools</h2>
+
+<table align="center">
+  <tr>
+    <!-- Existing tools -->
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br>Pandas
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br>NumPy
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/><br>Jupyter
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/><br>Power BI
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40" height="40" alt="Tableau"/><br>Tableau
+    </td>
+    <!-- Updated tools -->
+    <td align="center" width="100">
+      <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019–present).svg#/media/File:Microsoft_Office_Excel_(2019–present).svg" width="40" height="40" alt="Excel"/><br>Excel
+    </td>
+    <td align="center" width="100">
+      <img src="https://commons.wikimedia.org/wiki/File:Snowflake_Logo.svg#/media/File:Snowflake_Logo.svg" width="40" height="40" alt="Snowflake"/><br>Snowflake
+    </td>
+    <td align="center" width="100">
+      <img src="https://seeklogo.com/vector-logo/273651/metabase" width="40" height="40" alt="Metabase"/><br>Metabase
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
