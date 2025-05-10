@@ -24,7 +24,6 @@ I'm always looking for ways to optimize reporting, improve decision-making, and 
 
 <table align="center">
   <tr>
-    <!-- Existing tools -->
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br>MySQL
     </td>
@@ -49,18 +48,19 @@ I'm always looking for ways to optimize reporting, improve decision-making, and 
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40" height="40" alt="Tableau"/><br>Tableau
     </td>
-    <!-- Updated tools -->
     <td align="center" width="100">
-      <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019–present).svg#/media/File:Microsoft_Office_Excel_(2019–present).svg" width="40" height="40" alt="Excel"/><br>Excel
+      <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" width="40" height="40" alt="Excel"/><br>Excel
     </td>
     <td align="center" width="100">
-      <img src="https://commons.wikimedia.org/wiki/File:Snowflake_Logo.svg#/media/File:Snowflake_Logo.svg" width="40" height="40" alt="Snowflake"/><br>Snowflake
+      <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" width="40" height="40" alt="Snowflake"/><br>Snowflake
     </td>
     <td align="center" width="100">
-      <img src="https://seeklogo.com/vector-logo/273651/metabase" width="40" height="40" alt="Metabase"/><br>Metabase
+      <img src="https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" width="40" height="40" alt="Metabase"/><br>Metabase
     </td>
   </tr>
 </table>
+
+
 
 
 
