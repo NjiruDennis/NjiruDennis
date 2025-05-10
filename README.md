@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennisnjiru)
+
 👋 Hi, I'm Dennis Njiru Aningu — a self-taught Data Analyst passionate about uncovering insights from data and helping teams make smarter decisions.
 
 🔍 I specialize in:
